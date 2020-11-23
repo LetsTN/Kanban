@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Kanban"
+    }
+  },
+  "defaultProject": "Kanban",
+  "cli": {
+    "analytics": "31084582-4a4c-4c2d-a97c-b25bca36237d"
+  }
 }
